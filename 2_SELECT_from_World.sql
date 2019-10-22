@@ -1,4 +1,4 @@
-/*test for link https://sqlzoo.net/wiki/SELECT_names*/
+/*test for link https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial*/
 
 /* 1 */
 SELECT name, continent, population FROM world
